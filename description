@@ -1,0 +1,24 @@
+Description de l'application :
+
+Application qui permettra de creer son CV et de pouvoir dans l'avenir le partager avec des recruteurs ou autres
+On pourra modifier plusieurs champs, rajoutrer ou modifier une image, avoir plusieurs polices pour un titres ou des champs textes
+
+Cette application sera sur plusieurs écrans
+
+Sur l'ecran d'accueil il y a aura :
+    - Le titre
+    - Un bouton "Créer mon CV"
+    - Un bouton "Gérer mon/mes CV"
+    - Un bouton "télécharger un CV"
+    - Un bouton 'Consulter CV télécharger'
+
+Sur l'ecran 'Creer mon CV' :
+    - Il y aura une fenetre avec un onglet qui contiendra les 1eres categorie, on pourra rajouter ou supprimer des onglets. Chaque onglet, sauf le premier; se ressemblera
+    - Un bouton caché "previsulatisation"
+    - Un bouton caché "Sauvegarder"
+    - Des champs modifiables
+
+Sur l'ecran "Gerer mes CV" :
+    - On pourra voir ces differrents CV, la derniere fois où ils ont etaient modifié. Ainsi que de pourvoir les supprimer
+
+
