@@ -12,10 +12,12 @@ Sur l'ecran d'accueil il y a aura :
     - Un bouton "télécharger un CV"
     - Un bouton 'Consulter CV télécharger'
 
+
 Sur l'ecran 'Creer mon CV' :
     - Il y aura une fenetre avec un onglet qui contiendra les 1eres categorie, on pourra rajouter ou supprimer des onglets. Chaque onglet, sauf le premier; se ressemblera
     - Un bouton caché "previsulatisation"
     - Un bouton caché "Sauvegarder"
+    - Un bouton caché 'Créer cpde'
     - Des champs modifiables
 
 Sur l'ecran "Gerer mes CV" :

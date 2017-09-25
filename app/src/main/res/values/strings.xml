@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">CV_ALB</string>
+    <string name="app_name">Creation CV</string>
+    <string name="accueil">Acceuil</string>
+    <string name="creation_CV">Créer mon CV</string>
+    <string name="mes_CV">Mes CV</string>
 </resources>
